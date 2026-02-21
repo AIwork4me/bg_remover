@@ -4,7 +4,7 @@
 
 A minimalist, zero-click background removal tool powered by AI. 100% local processing - your images never leave your device.
 
-![Demo Result](remove_bg_result.png)
+![Demo Result](remove_bg_result.jpg)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
