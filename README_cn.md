@@ -4,7 +4,7 @@
 
 一款极简的零点击AI背景移除工具。100%本地处理 - 图片永远不会离开你的设备。
 
-![效果演示](remove_bg_result.png)
+![效果演示](remove_bg_result.jpg)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
