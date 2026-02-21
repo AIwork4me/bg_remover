@@ -1,6 +1,10 @@
 # bg-remover | Instant & Local
 
+[中文文档](README_cn.md)
+
 A minimalist, zero-click background removal tool powered by AI. 100% local processing - your images never leave your device.
+
+![Demo Result](demo_result.png)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -63,6 +67,7 @@ bg_remover/
 ├── README.md            # English documentation
 ├── README_cn.md         # 中文文档
 ├── CLAUDE.md            # Development reference
+├── demo_result.png      # Demo image
 ├── aiwork4me.jpg        # WeChat QR code
 │
 ├── .python_runtime/     # Local Python (auto-generated)
