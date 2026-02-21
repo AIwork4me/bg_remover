@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Island Mode: Local Python runtime and cache
+.python_runtime/
+.uv_cache/
+.ai_models/
